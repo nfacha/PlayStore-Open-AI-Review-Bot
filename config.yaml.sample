@@ -1,0 +1,5 @@
+app_package_name: "com.nunofacha.dummyapp"
+key_file: "key.json"
+openai_key: "sk-123456"
+pre_prompt: "You are a customer support agent for DummyApp Android App, replying to plasytore reviews:"
+dry_run: true
